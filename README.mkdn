@@ -8,11 +8,11 @@ To get started with XenithOS, you'll need to get familiar with [Source Control T
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u https://github.com/XenithOS/manifest.git -b lineage-22.2 --git-lfs
+repo init -u https://github.com/XenithOS/manifest.git -b lineage-23.0 --git-lfs
 ```
 For shallow sync, you can use this:
 ```
-repo init -u https://github.com/XenithOS/manifest.git -b lineage-22.2 --git-lfs --depth=1
+repo init -u https://github.com/XenithOS/manifest.git -b lineage-23.0 --git-lfs --depth=1
 ```
 Then to sync up:
 ```
